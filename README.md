@@ -50,7 +50,5 @@ Näytöksen aika syötetään muodossa `VVVV-KK-PPTHH:MM`, esim. `2026-05-17T18:
 
 ## Tekijät
 
-Toteutettu parityönä.
-
 - Tomas Salo
-
+- Kalle Karjalainen
